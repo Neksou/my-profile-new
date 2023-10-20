@@ -1,0 +1,29 @@
+.card {
+    padding: 40px;
+    border-radius: 15px;
+    margin: 20px 0px;
+    text-align: center;
+    color: white;
+    backdrop-filter: blur(30px);
+    background-color: rgba(65, 65, 65, 0.308);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.card h1 {
+    font-size: 2em;
+    color: #64B496;
+    margin-top: 0px;
+}
+
+
+.card h2 {
+    font-size: 1.7em;
+    color: #64B496;
+    margin: 0px
+}
+
+.card p {
+    font-size: 20px;
+    color: white;
+    opacity: 0.8;
+}

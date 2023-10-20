@@ -1,0 +1,18 @@
+/* Importing component files */
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/avatar.css");
+@import url("components/buttons.css");
+
+
+body {
+    background-color: rgb(28, 28, 28);
+    margin: 0px;
+    padding: 0px;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
